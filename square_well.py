@@ -1,4 +1,4 @@
-# Infinite square well
+# Infinite square well  script 
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -27,4 +27,3 @@ plt.grid()
 
 plt.savefig('plot.png')
 plt.show()
-
